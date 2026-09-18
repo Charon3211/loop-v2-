@@ -1,0 +1,13 @@
+{
+  "name": "Pulseboard — Personal Day OS",
+  "short_name": "Pulseboard",
+  "description": "A calm, local-first dashboard for your daily routine.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0e0f",
+  "theme_color": "#0d0e0f",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
